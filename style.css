@@ -451,6 +451,12 @@ margin-bottom: 100px
     text-align: center;
   }
 
+  .anuncios{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 40px;
+  }
   
 }
 
@@ -509,6 +515,7 @@ margin-bottom: 100px
     color: #fff;
     padding-top: 10px;
     text-align: center;
+    font-size: 30px;
   }
 
 
