@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
 
 
 
@@ -90,8 +91,14 @@ nav ul li:hover {
   text-align: center;
   margin-bottom: 0px;
   padding-top: 10%;
+  font-family: 'Water Brush';
 
 
+
+}
+
+.titulo-hip{
+  font-family: 'Water Brush';
 }
 
 .hr-titulo{
@@ -99,6 +106,11 @@ nav ul li:hover {
   height: 2px;
   background: #fff;
   float: center;
+}
+
+
+.contrataciones{
+  color: #fff;
 }
 
 
@@ -416,17 +428,26 @@ margin-bottom: 100px
   .jhan{
     padding-top: 60px;
     font-size: 40px;
+    font-family: 'Water Brush';
+  }
+
+  .sub{
+    font-size: 15px;
+  }
+  .sub-1{
+    font-size: 15px;
   }
 
   .parrafo{
-    font-size: 25px;
+    font-size: 20px;
   }
   .parrafo1{
     font-size: 20px;
   }
 
   .titulo1{
-    font-size: 40px;
+    padding-top: 80px;
+    font-size: 30px;
     text-align: center;
   }
 
@@ -441,6 +462,17 @@ margin-bottom: 100px
     height: 100%;
     padding: 5px 5px 5px 5px
   }
+  .jhan{
+    padding-top: 100px;
+  }
+
+  .sub{
+    font-size: 20px;
+  }
+
+  .sub-1{
+    font-size: 15px;
+  }
 
 }
 
@@ -453,16 +485,37 @@ margin-bottom: 100px
   }
   .titulo1{
     font-size: 60px;
+    padding-top: 100px;
   }
 
   .parrafo{
-    font-size: 35px;
+    font-size: 30px;
 
   }
 
   .jhan{
     padding-top: 80px;
     font-size: 50px;
+  }
+  .sub{
+    font-size: 20px;
+  }
+
+  .sub-1{
+    font-size: 20px;
+  }
+
+  .anuncios{
+    color: #fff;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+
+  .img-dbz img{
+    width: 100%;
+    max-width: 100%;
+    transition: all .7s ease;
   }
 
   .parrafo1{
@@ -500,6 +553,17 @@ margin-bottom: 100px
 
   .jhan{
     padding-top: 130px;
+    font-size: 50px;
+  }
+
+  .sub{
+    font-size: 20px;
+  }
+
+  .img-dbz img{
+    width: 100%;
+    max-width: 100%;
+    transition: all .7s ease;
   }
 
   .parrafo{
@@ -530,6 +594,7 @@ margin-bottom: 100px
 
   .jhan{
     padding-top: 120px;
+    
   }
 
   .sub{
