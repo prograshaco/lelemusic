@@ -143,6 +143,7 @@ nav ul li:hover {
   color: #fff;
   text-align: left;
   padding-right: 10px;
+  padding-left: 20px;
 
 }
 
@@ -289,6 +290,8 @@ nav ul li:hover {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 30px;
 }
+
+
 
 
 
@@ -457,6 +460,17 @@ margin-bottom: 100px
     font-size: 20px;
     padding-bottom: 40px;
   }
+
+  .row-dbz{
+    padding-right: 100px;
+
+  }
+
+  .img-dbz video{
+    height: 160px;
+    width: 320px;
+    margin: 0px ;
+  }
   
 }
 
@@ -478,6 +492,17 @@ margin-bottom: 100px
 
   .sub-1{
     font-size: 15px;
+  }
+
+  .row-dbz{
+    padding-right: 100px;
+
+  }
+
+  .img-dbz video{
+    height: 200px;
+    width: 400px;
+    margin: 0;
   }
 
 }
@@ -545,6 +570,17 @@ margin-bottom: 100px
     font-size: 50px;
   }
 
+  .row-dbz{
+    padding-right: 150px;
+
+  }
+
+  .img-dbz video{
+    height: 250px;
+    width: 390px;
+    margin: 0;
+  }
+
   
 
 }
@@ -581,6 +617,17 @@ margin-bottom: 100px
     color: #fff;
     padding-top: 10px;
     text-align: center;
+  }
+
+  .row-dbz{
+    padding-right: 300px;
+
+  }
+
+  .img-dbz video{
+    height: 250px;
+    width: 550px;
+    
   }
   
 }
@@ -624,6 +671,18 @@ margin-bottom: 100px
     padding-bottom: 10px;
     background-color: rgba(0,0,0,0.2);
   }
+  .row-dbz{
+    padding-right: 250px;
+
+  }
+
+  .img-dbz video{
+    height: 300px;
+    width: 650px;
+    margin: 0;
+  }
+
+  
   
 }
 
